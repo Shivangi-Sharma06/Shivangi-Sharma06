@@ -13,8 +13,8 @@ I'm deeply passionate about blockchain technology, web development, and building
 
 ## 🌟 About Me:
 - 🎓 **Education:** Pursuing Bachelor's in Computer Science and Engineering at SRM University.
-- 🌐 **Interests:** Blockchain Technology, Web Development, Crypto, and Stock Market.
-- 💻 **Skills:** Solidity, JavaScript (JS), HTML5 & CSS3
+- 🌐 **Interests:** Blockchain Technology, Web Development, Crypto.
+- 💻 **Skills:** Solidity, JavaScript (JS), HTML5 & CSS3, React, Rust, C++, FastAPI, C, MongoDB  
 
 ---
 
