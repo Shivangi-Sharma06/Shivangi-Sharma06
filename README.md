@@ -11,7 +11,7 @@
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif"/>
 
 
-# Hi, I'm Shivangi 👋
+# Hi! 👋
 
 
 
@@ -62,22 +62,8 @@ I ship real things, not tutorials.
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<!-- MAIN STATS (stable mirror) -->
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shivangi-Sharma06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-
-<!-- STREAK (stable) -->
-<img height="170" src="https://streak-stats.demolab.com?user=Shivangi-Sharma06&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<!-- TOP LANGUAGES -->
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shivangi-Sharma06&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<<p align="center">
+  <img src="./metrics.svg" width="100%" />
 </p>
 
 ---
