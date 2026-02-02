@@ -10,7 +10,7 @@
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif"/>
 
-# Hi, I'm Shivangi 👋
+# Hi !! 👋
 
 
 
@@ -48,7 +48,7 @@ I ship real things, not tutorials.
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,react,firebase" />
 
 ### Databases & Tools
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,kubernetes" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,kubernetes,arch,ethereum,hardhat&theme=dark" />
 
 ### OS
 <img src="https://skillicons.dev/icons?i=linux,windows" />
@@ -60,7 +60,8 @@ I ship real things, not tutorials.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="metrics.svg" width="100%" />
+  <img src="https://metrics.lecoq.io/Shivangi-Sharma06?template=classic&base.header=1&base.activity=1&base.repositories=1&plugin.languages=1&plugin.languages.limit=8&plugin.streak=1&plugin.achievements=1&plugin.isocalendar=1&theme=dark" width="100%" />
+
 </p>
 
 
