@@ -6,28 +6,21 @@
 
 
 
-<!-- ========================= HERO SECTION ========================= -->
+<!-- ========================= HERO ========================= -->
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif"/>
 
-
-# Hi! 👋
-
+# Hi, I'm Shivangi 👋
 
 
-<!-- ========================= GLASS INTRO CARD ========================= -->
 
-<p align="left">
+<!-- ========================= GLASS BADGES ========================= -->
 
-<a>
-  <img src="https://img.shields.io/badge/Web3%20Engineer-111111?style=for-the-badge&logo=ethereum&logoColor=white"/>
-</a>
-<a>
-  <img src="https://img.shields.io/badge/Secure%20Systems-111111?style=for-the-badge&logo=linux&logoColor=white"/>
-</a>
-<a>
-  <img src="https://img.shields.io/badge/Backend%20Builder-111111?style=for-the-badge&logo=node.js&logoColor=white"/>
-</a>
+<p>
+
+<img src="https://img.shields.io/badge/Web3%20Engineer-111111?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Secure%20Systems-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend%20Builder-111111?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 </p>
 
@@ -39,8 +32,10 @@ I ship real things, not tutorials.
 > build • break • learn • repeat
 
 
-
+<!-- ⭐ THIS LINE FIXES THE OVERLAP -->
 <br clear="right"/>
+
+
 
 ---
 
@@ -58,13 +53,17 @@ I ship real things, not tutorials.
 ### OS
 <img src="https://skillicons.dev/icons?i=linux,windows" />
 
+
+
 ---
 
 # 📊 GitHub Stats
 
-<<p align="center">
+<p align="center">
   <img src="./metrics.svg" width="100%" />
 </p>
+
+
 
 ---
 
@@ -74,6 +73,8 @@ I ship real things, not tutorials.
 - building → privacy infra  
 - exploring → zk + zero-knowledge systems  
 - grinding → 100x engineer arc  
+
+
 
 ---
 
