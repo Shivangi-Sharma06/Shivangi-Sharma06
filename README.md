@@ -1,5 +1,5 @@
 # Hey There! 👋  
-Welcome to my GitHub profile! I'm Shivangi Sharma, a first-year Computer Science and Engineering student at SRM University.
+Welcome to my GitHub profile! I'm Shivangi Sharma, a second-year Computer Science and Engineering student at SRM University.
 I'm deeply passionate about blockchain technology, web development, and building innovative projects that make a lasting impact.
 
 ---
