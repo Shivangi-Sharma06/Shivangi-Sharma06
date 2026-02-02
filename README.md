@@ -60,8 +60,7 @@ I ship real things, not tutorials.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Shivangi-Sharma06?template=classic&base.header=1&base.activity=1&base.repositories=1&plugin.languages=1&plugin.languages.limit=8&plugin.streak=1&plugin.achievements=1&plugin.isocalendar=1&theme=dark" width="100%" />
-
+  <img src="metrics.svg?raw=true" width="100%" />
 </p>
 
 
