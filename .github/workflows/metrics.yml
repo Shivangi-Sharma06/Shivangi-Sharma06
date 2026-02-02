@@ -2,37 +2,36 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # updates every 12 hours
+    - cron: "0 */12 * * *"   # every 12 hours
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - name: Generate metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Shivangi-Sharma06
 
-          # ===== Base =====
-          base: header, activity, community, repositories
+          # ===== Base sections =====
+          base: header, activity, community, repositories, metadata
 
-          # ===== Plugins =====
+          # ===== Plugins you asked =====
           plugin_languages: yes
-          plugin_languages_limit: 10
+          plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
 
           plugin_streak: yes
-          plugin_isocalendar: yes
           plugin_achievements: yes
+          plugin_isocalendar: yes
 
-          # ===== Theme =====
+          # ===== Look =====
           config_timezone: Asia/Kolkata
           config_display: large
           template: classic
