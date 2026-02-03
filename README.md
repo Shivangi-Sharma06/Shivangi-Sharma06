@@ -60,7 +60,7 @@ I ship real things, not tutorials.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="metrics.svg?raw=true" width="100%" />
+  <img src="github-metrics.svg?raw=true" width="100%" />
 </p>
 
 
