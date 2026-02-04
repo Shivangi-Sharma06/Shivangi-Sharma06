@@ -31,12 +31,11 @@ BUILD • LEARN • REPEAT
 
 <!-- all from SAME service → stable -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivangi-Sharma06&theme=github_dark" width="60%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivangi-Sharma06&theme=github_dark" width="60%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivangi-Sharma06&theme=github_dark" width="60%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivangi-Sharma06&theme=github_dark&utcOffset=5.5" width="60%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivangi-Sharma06&theme=github_dark" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivangi-Sharma06&theme=github_dark" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivangi-Sharma06&theme=github_dark" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivangi-Sharma06&theme=github_dark&utcOffset=5.5" width="24%" />
+</p>
 
 <br clear="right"/>
