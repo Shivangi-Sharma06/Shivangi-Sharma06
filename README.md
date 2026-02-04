@@ -10,7 +10,6 @@
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif"/>
 
-<h2>Hi !! 👋</h2>
 
 ### Building Secure + Decentralized Systems  
 From Centralized → Trustless → Privacy-First Infra  
@@ -34,11 +33,10 @@ BUILD • LEARN • REPEAT
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivangi-Sharma06&theme=github_dark" width="31%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivangi-Sharma06&theme=github_dark" width="31%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivangi-Sharma06&theme=github_dark" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivangi-Sharma06&theme=github_dark&v=1" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivangi-Sharma06&theme=github_dark&v=1" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivangi-Sharma06&theme=github_dark&v=1" width="31%" />
 </p>
-
 
 <br/>
 
