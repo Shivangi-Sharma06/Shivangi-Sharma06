@@ -5,30 +5,35 @@
 </p>
 
 
-<!-- ========================= HERO ROW ========================= -->
+<!-- ========================= HERO (TABLE FIX) ========================= -->
 
-<div align="center" style="display:flex; justify-content:space-between; align-items:center; gap:40px;">
+<table>
+<tr>
 
-  <!-- LEFT SIDE -->
-  <div align="left">
+<td width="65%" valign="top">
 
-  <img src="https://img.shields.io/badge/Web3-111111?style=for-the-badge&logo=ethereum&logoColor=white"/><br><br>
-  <img src="https://img.shields.io/badge/Secure%20Systems-111111?style=for-the-badge&logo=linux&logoColor=white"/><br><br>
-  <img src="https://img.shields.io/badge/Backend-111111?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3-111111?style=for-the-badge&logo=ethereum&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/Secure%20Systems-111111?style=for-the-badge&logo=linux&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/Backend-111111?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-  <br><br>
+<br><br>
 
-  ### 🚀 Building Secure + Decentralized Systems  
-  From Centralized → Trustless → Privacy-first Infra  
+### 🚀 Building Secure + Decentralized Systems  
+From Centralized → Trustless → Privacy-first Infra  
 
-  > build • learn • repeat
+> build • learn • repeat
 
-  </div>
+</td>
 
-  <!-- RIGHT SIDE GIF -->
-  <img width="280" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif"/>
 
-</div>
+<td width="35%" align="right">
+
+<img width="280" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif"/>
+
+</td>
+
+</tr>
+</table>
 
 
 ---
@@ -55,21 +60,17 @@
 - learning → Solana + AI  
 - grinding → 10x engineer arc  
 
+
+<!-- ========================= STATS BELOW ========================= -->
+
 <br>
 
-<!-- ========================= STATS BELOW CURRENTLY ========================= -->
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivangi-Sharma06&theme=github_dark" width="45%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivangi-Sharma06&theme=github_dark" width="45%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivangi-Sharma06&theme=github_dark" width="60%" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivangi-Sharma06&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivangi-Sharma06&theme=github_dark" width="45%" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivangi-Sharma06&theme=github_dark" width="60%" />
+</p>
 
 
 ---
