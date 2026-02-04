@@ -26,10 +26,10 @@
 <br><br>
 
 
-### 🚀 Building Secure + Decentralized Systems  
+### Building Secure + Decentralized Systems  
 From Centralized → Trustless → Privacy-first Infra  
 
-> build • learn • repeat
+> BUILD • LEARN • REPEAT
 
 
 <!-- forces next content below gif -->
