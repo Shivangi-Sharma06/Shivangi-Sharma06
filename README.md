@@ -69,15 +69,14 @@ From Centralized → Trustless → Privacy-first Infra
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivangi-Sharma06&theme=github_dark" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivangi-Sharma06&theme=github_dark" width="32%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivangi-Sharma06&theme=github_dark" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivangi-Sharma06&theme=github_dark" width="32%" />
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivangi-Sharma06&theme=github_dark" width="60%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivangi-Sharma06&theme=github_dark" width="32%" />
 
 </p>
+
 
 
 
