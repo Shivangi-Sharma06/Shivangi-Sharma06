@@ -5,40 +5,30 @@
 </p>
 
 
+<!-- ========================= HERO ROW ========================= -->
 
-<!-- ========================= HERO ========================= -->
+<div align="center" style="display:flex; justify-content:space-between; align-items:center; gap:40px;">
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif"/>
+  <!-- LEFT SIDE -->
+  <div align="left">
 
+  <img src="https://img.shields.io/badge/Web3-111111?style=for-the-badge&logo=ethereum&logoColor=white"/><br><br>
+  <img src="https://img.shields.io/badge/Secure%20Systems-111111?style=for-the-badge&logo=linux&logoColor=white"/><br><br>
+  <img src="https://img.shields.io/badge/Backend-111111?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<!-- ========================= GLASS BADGES ========================= -->
+  <br><br>
 
-<p>
-<img src="https://img.shields.io/badge/Web3%20-111111?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/Secure%20Systems-111111?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend%20-111111?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
+  ### 🚀 Building Secure + Decentralized Systems  
+  From Centralized → Trustless → Privacy-first Infra  
 
-### Building Secure + Decentralized Systems  
-From Centralized → Trustless → Privacy-first Infra  
+  > build • learn • repeat
 
-> build • learn • repeat
+  </div>
 
+  <!-- RIGHT SIDE GIF -->
+  <img width="280" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif"/>
 
-
-<!-- ========================= MINI STATS BESIDE GIF ========================= -->
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivangi-Sharma06&theme=github_dark" width="55%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivangi-Sharma06&theme=github_dark" width="55%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivangi-Sharma06&theme=github_dark" width="55%" />
-
-
-
-<!-- ⭐ THIS LINE FIXES THE OVERLAP -->
-<br clear="right"/>
-
+</div>
 
 
 ---
@@ -62,9 +52,24 @@ From Centralized → Trustless → Privacy-first Infra
 
 # ✨ Currently
 
-- learning → Solana + AI   
+- learning → Solana + AI  
 - grinding → 10x engineer arc  
 
+<br>
+
+<!-- ========================= STATS BELOW CURRENTLY ========================= -->
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivangi-Sharma06&theme=github_dark" width="45%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivangi-Sharma06&theme=github_dark" width="45%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivangi-Sharma06&theme=github_dark" width="60%" />
+
+</div>
 
 
 ---
