@@ -5,35 +5,36 @@
 </p>
 
 
-<!-- ========================= HERO (TABLE FIX) ========================= -->
 
-<table>
-<tr>
+<!-- ========================= HERO ========================= -->
+<!-- GIF floats right, everything else stays left -->
 
-<td width="65%" valign="top">
+<img
+  align="right"
+  width="300"
+  src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif"
+/>
+
+
+<!-- ========================= GLASS BADGES ========================= -->
 
 <img src="https://img.shields.io/badge/Web3-111111?style=for-the-badge&logo=ethereum&logoColor=white"/><br><br>
 <img src="https://img.shields.io/badge/Secure%20Systems-111111?style=for-the-badge&logo=linux&logoColor=white"/><br><br>
 <img src="https://img.shields.io/badge/Backend-111111?style=for-the-badge&logo=node.js&logoColor=white"/>
 
+
 <br><br>
+
 
 ### 🚀 Building Secure + Decentralized Systems  
 From Centralized → Trustless → Privacy-first Infra  
 
 > build • learn • repeat
 
-</td>
 
+<!-- forces next content below gif -->
+<br clear="right"/>
 
-<td width="35%" align="right">
-
-<img width="280" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif"/>
-
-</td>
-
-</tr>
-</table>
 
 
 ---
@@ -61,16 +62,23 @@ From Centralized → Trustless → Privacy-first Infra
 - grinding → 10x engineer arc  
 
 
-<!-- ========================= STATS BELOW ========================= -->
-
 <br>
 
+
+<!-- ========================= GITHUB STATS (below Currently) ========================= -->
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivangi-Sharma06&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivangi-Sharma06&theme=github_dark" width="45%" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivangi-Sharma06&theme=github_dark" width="60%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivangi-Sharma06&theme=github_dark" width="45%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivangi-Sharma06&theme=github_dark" width="45%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivangi-Sharma06&theme=github_dark" width="60%" />
+
 </p>
+
 
 
 ---
