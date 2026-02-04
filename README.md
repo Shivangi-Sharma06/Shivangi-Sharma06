@@ -24,18 +24,12 @@
 
 </p>
 
-### Building secure + decentralized systems  
-From centralized → trustless → privacy-first infra  
+### Building Secure + Decentralized Systems  
+From Centralized → Trustless → Privacy-First Infra  
 
-I ship real things, not tutorials.
+BUILD • LEARN • REPEAT
 
-> build • break • learn • repeat
-
-
-<!-- ⭐ THIS LINE FIXES THE OVERLAP -->
 <br clear="right"/>
-
-
 
 ---
 
@@ -53,8 +47,6 @@ I ship real things, not tutorials.
 ### OS
 <img src="https://skillicons.dev/icons?i=linux,windows" />
 
-
-
 ---
 
 # 📊 GitHub Stats
@@ -63,18 +55,12 @@ I ship real things, not tutorials.
   <img src="github-metrics.svg?raw=true" width="100%" />
 </p>
 
-
-
 ---
 
 # ✨ Currently
 
 - learning → Solana + Rust + AI  
-- building → privacy infra  
-- exploring → zk + zero-knowledge systems  
-- grinding → 100x engineer arc  
-
-
+- grinding → 10x engineer arc  
 
 ---
 

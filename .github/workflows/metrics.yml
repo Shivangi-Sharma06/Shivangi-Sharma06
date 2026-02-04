@@ -20,7 +20,7 @@ jobs:
           user: Shivangi-Sharma06
 
           # Base info
-          base: header, activity, community, repositories, metadata
+          base: repositories
 
           # Languages
           plugin_languages: yes
@@ -33,9 +33,7 @@ jobs:
 
           # Achievements
           plugin_achievements: yes
-
-          # Contribution calendar
-          plugin_isocalendar: yes
+          plugin_achievements_display: compact
 
           # Look
           config_timezone: Asia/Kolkata
