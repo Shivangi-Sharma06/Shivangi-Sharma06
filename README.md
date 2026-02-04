@@ -5,6 +5,7 @@
 </p>
 
 
+
 <!-- ========================= HERO ========================= -->
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif"/>
@@ -28,18 +29,14 @@ BUILD • LEARN • REPEAT
 
 # 📊 GitHub Stats
 
-<!-- Stack vertically (stable) -->
+<!-- all from SAME service → stable -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivangi-Sharma06&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivangi-Sharma06&theme=github_dark" width="60%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivangi-Sharma06&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivangi-Sharma06&theme=github_dark" width="60%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivangi-Sharma06&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivangi-Sharma06&theme=github_dark" width="60%" />
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivangi-Sharma06&theme=github_dark&utcOffset=5.5" width="60%" />
 
-<img src="https://streak-stats.demolab.com?user=Shivangi-Sharma06&theme=radical" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivangi-Sharma06&layout=compact&theme=radical" width="100%" />
+<br clear="right"/>
