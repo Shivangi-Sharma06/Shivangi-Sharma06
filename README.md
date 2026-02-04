@@ -34,8 +34,11 @@ BUILD • LEARN • REPEAT
 # 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivangi-Sharma06&theme=github_dark" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivangi-Sharma06&theme=github_dark" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivangi-Sharma06&theme=github_dark" width="31%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shivangi-Sharma06&show_icons=true&theme=radical&cache_seconds=1" />
 
 <br/>
 
